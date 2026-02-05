@@ -1,32 +1,22 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using SecureProductApi.DTOs;
-using Serilog;
+using SecureProductApi.DTO;
 
-namespace SecureProductApi.Controllers
+[ApiController]
+[Route("api/products")]
+public class ProductsController : ControllerBase
 {
-    [ApiController]
-    [Route("api/products")]
-    public class ProductsController : ControllerBase
+    [HttpGet]
+    [Authorize]
+    public IActionResult Get()
     {
-        [HttpGet]
-        [Authorize]
-        public IActionResult Get()
-        {
-            Log.Information("User {User} accessed products",
-                User.Identity?.Name);
+        return Ok("Secure product list");
+    }
 
-            return Ok("Secure product list");
-        }
-
-        [HttpPost]
-        [Authorize(Roles = "Admin")]
-        public IActionResult Create(CreateProductDto dto)
-        {
-            Log.Information("Admin {User} created product {Product}",
-                User.Identity?.Name, dto.Name);
-
-            return Ok("Product created");
-        }
+    [HttpPost]
+    [Authorize(Roles = "Admin")]
+    public IActionResult Create(ProductDto dto)
+    {
+        return Ok("Product created");
     }
 }

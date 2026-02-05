@@ -1,8 +1,8 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace SecureProductApi.DTOs
+namespace SecureProductApi.DTO
 {
-    public class CreateProductDto
+    public class ProductDto
     {
         [Required]
         [StringLength(100)]
