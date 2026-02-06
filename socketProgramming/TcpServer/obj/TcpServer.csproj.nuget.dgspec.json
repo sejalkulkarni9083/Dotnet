@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/tfl/sejal/Dotnet/TcpServer/TcpServer.csproj": {}
+    "/home/tfl/sejal/Dotnet/socketProgramming/TcpServer/TcpServer.csproj": {}
   },
   "projects": {
-    "/home/tfl/sejal/Dotnet/TcpServer/TcpServer.csproj": {
+    "/home/tfl/sejal/Dotnet/socketProgramming/TcpServer/TcpServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tfl/sejal/Dotnet/TcpServer/TcpServer.csproj",
+        "projectUniqueName": "/home/tfl/sejal/Dotnet/socketProgramming/TcpServer/TcpServer.csproj",
         "projectName": "TcpServer",
-        "projectPath": "/home/tfl/sejal/Dotnet/TcpServer/TcpServer.csproj",
+        "projectPath": "/home/tfl/sejal/Dotnet/socketProgramming/TcpServer/TcpServer.csproj",
         "packagesPath": "/home/tfl/.nuget/packages/",
-        "outputPath": "/home/tfl/sejal/Dotnet/TcpServer/obj/",
+        "outputPath": "/home/tfl/sejal/Dotnet/socketProgramming/TcpServer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tfl/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/bin/Debug/net9.0/TcpClient
+/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/bin/Debug/net9.0/TcpClient.deps.json
+/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/bin/Debug/net9.0/TcpClient.runtimeconfig.json
+/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/bin/Debug/net9.0/TcpClient.dll
+/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/bin/Debug/net9.0/TcpClient.pdb
+/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/obj/Debug/net9.0/TcpClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/obj/Debug/net9.0/TcpClient.AssemblyInfoInputs.cache
+/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/obj/Debug/net9.0/TcpClient.AssemblyInfo.cs
+/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/obj/Debug/net9.0/TcpClient.csproj.CoreCompileInputs.cache
+/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/obj/Debug/net9.0/TcpClient.sourcelink.json
+/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/obj/Debug/net9.0/TcpClient.dll
+/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/obj/Debug/net9.0/refint/TcpClient.dll
+/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/obj/Debug/net9.0/TcpClient.pdb
+/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/obj/Debug/net9.0/TcpClient.genruntimeconfig.cache
+/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/obj/Debug/net9.0/ref/TcpClient.dll

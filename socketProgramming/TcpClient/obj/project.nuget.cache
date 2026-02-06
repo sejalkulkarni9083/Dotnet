@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RILrdmDqr1U=",
+  "dgSpecHash": "M9MW1b98+ic=",
   "success": true,
-  "projectFilePath": "/home/tfl/sejal/Dotnet/TcpClient/TcpClient.csproj",
+  "projectFilePath": "/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/TcpClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

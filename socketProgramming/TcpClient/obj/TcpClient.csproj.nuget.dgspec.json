@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/tfl/sejal/Dotnet/TcpClient/TcpClient.csproj": {}
+    "/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/TcpClient.csproj": {}
   },
   "projects": {
-    "/home/tfl/sejal/Dotnet/TcpClient/TcpClient.csproj": {
+    "/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/TcpClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tfl/sejal/Dotnet/TcpClient/TcpClient.csproj",
+        "projectUniqueName": "/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/TcpClient.csproj",
         "projectName": "TcpClient",
-        "projectPath": "/home/tfl/sejal/Dotnet/TcpClient/TcpClient.csproj",
+        "projectPath": "/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/TcpClient.csproj",
         "packagesPath": "/home/tfl/.nuget/packages/",
-        "outputPath": "/home/tfl/sejal/Dotnet/TcpClient/obj/",
+        "outputPath": "/home/tfl/sejal/Dotnet/socketProgramming/TcpClient/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tfl/.nuget/NuGet/NuGet.Config"
