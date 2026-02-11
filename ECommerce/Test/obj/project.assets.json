@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "Cataog/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Cataog.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cataog.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Cataog/1.0.0": {
+      "type": "project",
+      "path": "../Cataog/Cataog.csproj",
+      "msbuildProject": "../Cataog/Cataog.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "Cataog >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/tfl/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/tfl/sejal/Dotnet/ECommerce/Cataog/Cataog.csproj": {
+              "projectPath": "/home/tfl/sejal/Dotnet/ECommerce/Cataog/Cataog.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

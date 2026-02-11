@@ -1,0 +1,12 @@
+/home/tfl/sejal/Dotnet/ECommerce/Cataog/bin/Debug/net9.0/Cataog.deps.json
+/home/tfl/sejal/Dotnet/ECommerce/Cataog/bin/Debug/net9.0/Cataog.dll
+/home/tfl/sejal/Dotnet/ECommerce/Cataog/bin/Debug/net9.0/Cataog.pdb
+/home/tfl/sejal/Dotnet/ECommerce/Cataog/obj/Debug/net9.0/Cataog.GeneratedMSBuildEditorConfig.editorconfig
+/home/tfl/sejal/Dotnet/ECommerce/Cataog/obj/Debug/net9.0/Cataog.AssemblyInfoInputs.cache
+/home/tfl/sejal/Dotnet/ECommerce/Cataog/obj/Debug/net9.0/Cataog.AssemblyInfo.cs
+/home/tfl/sejal/Dotnet/ECommerce/Cataog/obj/Debug/net9.0/Cataog.csproj.CoreCompileInputs.cache
+/home/tfl/sejal/Dotnet/ECommerce/Cataog/obj/Debug/net9.0/Cataog.sourcelink.json
+/home/tfl/sejal/Dotnet/ECommerce/Cataog/obj/Debug/net9.0/Cataog.dll
+/home/tfl/sejal/Dotnet/ECommerce/Cataog/obj/Debug/net9.0/refint/Cataog.dll
+/home/tfl/sejal/Dotnet/ECommerce/Cataog/obj/Debug/net9.0/Cataog.pdb
+/home/tfl/sejal/Dotnet/ECommerce/Cataog/obj/Debug/net9.0/ref/Cataog.dll
